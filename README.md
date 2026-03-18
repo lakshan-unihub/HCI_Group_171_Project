@@ -20,3 +20,11 @@ pasword:admin123
 =============================================
 
 
+Designer
+
+
+username: designer
+
+password:designer123
+
+
